@@ -4,6 +4,6 @@ jdk:
 notifications:
   email:
     recipients:
-      - aajayi6@towson.students.edu
+      - aajayi6@students.towson.edu
     on_success: always # default: change
     on_failure: always # default: always
