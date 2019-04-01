@@ -36,7 +36,7 @@ public class SimpleCalculatorTest {
 		assertEquals(2, calc.divide(2, 0));
 	}
 	
-	Test
+	@Test
 	public void testSquare() {
 		SimpleCalculator calc = new SimpleCalculator();
 		assertEquals(4, calc.square(2));
